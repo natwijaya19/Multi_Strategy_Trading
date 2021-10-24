@@ -134,3 +134,4 @@ dmypy.json
 
 # excel file
 .xlsx
+.xls
